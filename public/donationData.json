@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "category": "health",
+        "title": "Medical Supplies",
+        "price": 50,
+        "image": "https://i.ibb.co/hL8MDNK/Health.png",
+        "color": "blue",
+        "details": "A box of essential medical supplies including bandages, gauze, antiseptic wipes, and more."
+    },
+    {
+        "id": 2,
+        "category": "health",
+        "title": "First Aid Kit",
+        "price": 30,
+        "image": "https://i.ibb.co/hL8MDNK/Health.png",
+        "color": "tomato",
+        "details": "A comprehensive first aid kit with bandages, scissors, tweezers, and other medical essentials."
+    },
+    {
+        "id": 3,
+        "category": "food",
+        "title": "Non-Perishable Food",
+        "price": 20,
+        "image": "https://i.ibb.co/NtWrw2z/Food.png",
+        "color": "hotpink",
+        "details": "A selection of non-perishable food items like canned goods, rice, pasta, and beans."
+    },
+    {
+        "id": 4,
+        "category": "food",
+        "title": "Fresh Produce",
+        "price": 40,
+        "image": "https://i.ibb.co/NtWrw2z/Food.png",
+        "color": "green",
+        "details": "A box of fresh fruits and vegetables including apples, oranges, tomatoes, and lettuce."
+    },
+    {
+        "id": 5,
+        "category": "education",
+        "title": "School Supplies",
+        "price": 25,
+        "image": "https://i.ibb.co/FK9thWv/Education.png",
+        "color": "blue",
+        "details": "A kit containing essential school supplies such as notebooks, pens, pencils, and erasers."
+    },
+    {
+        "id": 6,
+        "category": "education",
+        "title": "Educational Books",
+        "price": 35,
+        "image": "https://i.ibb.co/FK9thWv/Education.png",
+        "color": "tomato",
+        "details": "A collection of educational books covering various subjects for different age groups."
+    },
+    {
+        "id": 7,
+        "category": "clothing",
+        "title": "Winter Coats",
+        "price": 50,
+        "image": "https://i.ibb.co/fCFP7D8/Clothing.png",
+        "color": "hotpink",
+        "details": "Warm winter coats in various sizes to keep individuals protected from the cold weather."
+    },
+    {
+        "id": 8,
+        "category": "clothing",
+        "title": "Children's Clothing",
+        "price": 30,
+        "image": "https://i.ibb.co/fCFP7D8/Clothing.png",
+        "color": "green",
+        "details": "Assorted children's clothing including shirts, pants, and jackets for various ages."
+    },
+    {
+        "id": 9,
+        "category": "health",
+        "title": "Prescription Medication",
+        "price": 60,
+        "image": "https://i.ibb.co/hL8MDNK/Health.png",
+        "color": "blue",
+        "details": "A supply of essential prescription medications for various common health conditions."
+    },
+    {
+        "id": 10,
+        "category": "food",
+        "title": "Canned Goods",
+        "price": 15,
+        "image": "https://i.ibb.co/NtWrw2z/Food.png",
+        "color": "tomato",
+        "details": "A selection of canned goods including vegetables, fruits, and soups."
+    },
+    {
+        "id": 11,
+        "category": "education",
+        "title": "Laptops for Students",
+        "price": 300,
+        "image": "https://i.ibb.co/FK9thWv/Education.png",
+        "color": "hotpink",
+        "details": "Laptops equipped with educational software to support students in their learning journey."
+    },
+    {
+        "id": 12,
+        "category": "clothing",
+        "title": "Blankets",
+        "price": 20,
+        "image": "https://i.ibb.co/fCFP7D8/Clothing.png",
+        "color": "green",
+        "details": "Warm and cozy blankets to provide comfort during the colder months."
+    }
+]
