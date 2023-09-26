@@ -13,7 +13,7 @@ const Details = () => {
 
 
     const handleDonate = () =>{
-        saveDonationData(id); 
+        saveDonationData(idInt); 
         toast('You have donate successfully')
     }
 
