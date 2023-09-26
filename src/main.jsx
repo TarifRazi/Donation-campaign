@@ -32,12 +32,12 @@ const router = createBrowserRouter([
       {
         path: '/details/:id',
         element: <Details></Details>,
-        loader:  ({ params }) => {
-         return LoaderData.filter(function(data){
-           return params.id == data.id
-          });
-        }
-        ,
+        // loader:  ({ params }) => {
+        //  return LoaderData.filter(function(data){
+        //    return params.id == data.id
+        //   });
+        // }
+        loader: () => fetch('../public/donationData.json')
       }
     ]
   },
