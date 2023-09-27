@@ -39,7 +39,7 @@ const router = createBrowserRouter([
         //    return params.id == data.id
         //   });
         // }
-        loader: () => fetch('../public/donationData.json')
+        loader: () => LoaderData
       }
     ]
   },
