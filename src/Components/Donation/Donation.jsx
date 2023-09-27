@@ -28,8 +28,7 @@ const Donation = () => {
     };
 
     return (
-        <div>
-            <h3>this is donation file {donationGot.length}</h3>
+        <div className="mt-10">
 
             <div className="grid grid-cols-2 gap-6 ">
                 {showAll ? (

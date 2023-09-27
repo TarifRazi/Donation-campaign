@@ -30,7 +30,6 @@ const Statistics = () => {
 // console.log(donationAmount);
   return (
     <div>
-      <h3>This is Statistics</h3>
       <PieChart width={600} height={400}>
         <Pie
           data={data}
