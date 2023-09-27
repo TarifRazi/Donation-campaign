@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 1. search by category name
 2. show piechart
 3. show donation details
+
+
+live link: plain-statement.surge.sh
